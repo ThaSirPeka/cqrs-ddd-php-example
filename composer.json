@@ -29,7 +29,7 @@
 
     "lambdish/phunctional": "^1.0",
 
-    "swiftmailer/swiftmailer": "^5.4",
+    "swiftmailer/swiftmailer": "^6.0",
     "maknz/slack": "^1.7"
   },
   "require-dev": {

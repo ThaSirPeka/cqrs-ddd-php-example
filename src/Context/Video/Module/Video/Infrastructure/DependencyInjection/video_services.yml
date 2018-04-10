@@ -29,6 +29,7 @@ services:
     arguments:
      - '@codely.video.video.repository'
      - '@codely.video.domain_event_publisher'
+     - '@codely.video.video.notifier'
     public: false
 
   codely.video.video.video_finder:
